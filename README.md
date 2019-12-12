@@ -9,9 +9,9 @@
 - City-Geo-Location
 
 ## Ejemplo:
-    ```
-     node app.js -d "New York"
-    ```
+```
+ node app.js -d "New York"
+ ```
 
 ### Instalaciones necesarias del proyecto
 
